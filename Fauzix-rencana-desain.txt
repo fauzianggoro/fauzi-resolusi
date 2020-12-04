@@ -1,0 +1,6 @@
+rencana desain fauzi
+- membuat desain web sederhana
+  *membuat tampilan desain homepage
+- membuat desain web dengan beberapa fitur
+  *membuat fitur login
+- membuat desain web dengan database
